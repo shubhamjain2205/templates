@@ -1,6 +1,6 @@
 Hi {{name}},
 
-I'm {{bdm_name}}, Partnerships Manager at **Frontier Blaze**, we've been inspired by your exceptional journey and the contributions you've made to your industry. We would love to honour your achievements by giving you the title of **Industry Leading**, recognizing you as a leader in your domain.
+I'm {{bdm_name}}, Partnerships Manager at **Frontier Blaze**, I wanted to reach out because we'd love to feature you in our **"Industry Leading"** series. Your journey is inspiring, and we'd love to share your achievements with our audience while recognizing you as a leading person in your domain.
 
 As part of this exclusive feature, you'll receive:
 
@@ -10,12 +10,12 @@ As part of this exclusive feature, you'll receive:
 - **Lasting Exposure:** Your story will remain permanently on our website, ensuring lifelong visibility and influence.
 - **Quick Turnaround:** From start to finish, your feature will be live in just 24 hours, making the process quick and seamless.
 
-We believe this title will significantly enhance your brand's reputation and connect you with a vast network of tech and business leaders. To support the editorial and promotional efforts, a nominal sponsorship fee of {{price}} ensures the highest quality content and maximum visibility for your feature.
+We believe this title will significantly enhance your reputation and connect you with a vast network of business leaders. To support the editorial and promotional efforts, a nominal sponsorship of {{price}} ensures the highest quality content and maximum visibility for your feature.
 
-We'd be honoured to feature your story and recognize your leadership. Kindly reach out with any questions or let me know when you'd like to proceed.
+We'd be honoured to feature your story and recognize your leadership. Let me know if you have any questions or if you're ready to move forward!
 
 Warm regards,
 
-{{bdm_name}}
+{{bdm_name}} | Partnership Manager
 
 You can also find us online by searching “Frontier Blaze” on Google.
