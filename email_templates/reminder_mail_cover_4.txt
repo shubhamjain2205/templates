@@ -2,16 +2,16 @@ Hi {{name}},
 
 I wanted to reach out one last time about your **Cover Story** feature titled, **"{{title}}"**  in **Frontier Blaze**. I've done my research on your achievements, and I believe your story deserves to be shared with the world.
 
-To ensure **budget isn't a barrier**, I've spoken with my team and arranged a **final concession**:
+To ensure budget isn't a barrier, I've spoken with my team and arranged a final concession:
 
 -	**Original Sponsorship**: {{price}}
 -	**Exclusive Sponsorship**: {{final_discount}}
 
 This reduced amount is just to cover the essential expenses required to make this feature possible. It includes **editorial efforts, publishing your story, running global social media campaigns**, and **supporting the operational expenses** that bring everything together.
 
-At **{{final_discount}}**, we're simply seeking support for these **essential expenses**. Waiving the sponsorship entirely wouldn't leave room for us to sustain the feature. I hope you'll consider this.
+At **{{final_discount}}**, we're simply seeking support for these essential expenses. Waiving the sponsorship entirely wouldn't leave room for us to sustain the feature. I hope you'll consider this.
 
-Just **few spots remains** for this edition, and I'd love to include your journey. If there's **anything holding you back**-whether it's the title, details, or sponsorship amount, kindly let me know. I'd be happy to work with you to tailor this feature to your preferences.
+Just **few spots remains** for this edition, and I'd love to include your journey. If there's anything holding you back-whether it's the title, details, or sponsorship amount, kindly let me know. I'd be happy to work with you to tailor this feature to your preferences.
 
 I'm genuinely excited about the potential collaboration!
 
