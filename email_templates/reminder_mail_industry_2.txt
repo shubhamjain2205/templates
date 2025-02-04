@@ -7,7 +7,7 @@ I've worked with my team to secure a **special concession** for your feature:
 - **Original Sponsorship**: {{price}}
 - **After Concession**: {{discount_price}}
 
-This sponsorship covers **essential operational expenses** for publishing and promoting your feature, ensuring it receives the visibility it deserves. The **special concession** is available until **this weekend**, and I'd love to include you in this edition.
+This sponsorship covers essential operational expenses for publishing and promoting your feature, ensuring it receives the visibility it deserves. The special concession is available until this weekend, and I'd love to include you in this edition.
 
 Kindly let me know if you'd like to confirm your participation or if you'd like more details!
 
