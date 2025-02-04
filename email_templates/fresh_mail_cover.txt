@@ -2,7 +2,7 @@ Dear {{name}},
 
 I'm **{{bdm_name}}, Partnerships Manager at Frontier Blaze**, and I have an exciting proposition for you.
 
-We would love to feature your **remarkable journey** in our upcoming edition, focusing on "**{{title}}**". Your leadership and vision deserve to be **front and centre** in the spotlight!
+We would love to feature your **remarkable journey** in our upcoming edition, focusing on "**{{title}}**". Your leadership and vision deserve to be front and centre in the spotlight!
 
 Frontier Blaze is a **trusted platform** for innovators, business leaders, and industry experts. We empower leaders like you to:
 
