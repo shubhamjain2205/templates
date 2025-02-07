@@ -1,0 +1,17 @@
+Hi {{name}},
+
+**Do You Remember?** My previous emails for the **Cover Story** feature at **Frontier Blaze**. As mentioned, this exclusive feature is being offered to you at a low, after concession sponsorship, along with additional benefits:
+
+-	Confirm within this week, and I'll include **a complimentary three-page profile** in one more edition of Frontier Blaze.
+
+This **additional benefit** is my way of supporting your story and ensuring it gets the visibility it deserves.
+
+This feature provides unmatched value and long-term benefits for your brand and professional growth. If you have any questions or need clarification, I'm here to assist.
+
+Looking forward to your reply!
+
+Best regards,
+
+{{bdm_name}} | Frontier Blaze
+
+You can find us online by searching 'Frontier Blaze' on Google.

@@ -1,0 +1,24 @@
+Hi {{name}},
+
+I've been thinking on how impactful your story is and how much it could inspire others if featured in **Frontier Blaze**. That's why I've worked with my team to make this cover feature even more accessible.
+
+I've managed to secure a **special concession:**
+
+-	**Original Sponsorship:** {{price}}
+-	**After Concession:** {{discount_price}}
+
+I understand that committing to a sponsorship may not sound appealing at first. But I want to assure you that this isn't about charging for the feature itself, it's for covering the essential operational expenses involved in making this feature a reality. These include:
+
+-	**Publishing and editing** your story to perfection,
+-	**Running targeted social media campaigns** to maximize your reach, and
+-	**Supporting backend expenses** like magazine printing and platform hosting.
+
+At **{{discount_price}}**, we're simply seeking sponsorship support for these **operational expenses**. Waiving the sponsorship entirely wouldn't allow us to sustain this platform and create opportunities like these in the future.
+
+This special concession is valid until this weekend, and I'd be happy to have you as part of this edition. Kindly let me know if you'd like to secure your spot. It would truly be an honour to share your inspiring journey with the world!
+
+Warm regards,
+
+{{bdm_name}} | Business Development Manager
+
+P.S. You can find us online by searching 'Frontier Blaze' on Google.
