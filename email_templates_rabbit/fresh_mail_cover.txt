@@ -2,9 +2,7 @@ Dear {{name}},
 
 Greetings and good day to you!
 
-This Women’s Day, we shine a light on the fearless women redefining success in the business world. They are innovators, leaders, and changemakers - breaking barriers, challenging norms, and inspiring the next generation.
-
-In this special feature, we celebrate their journeys - the struggles, the triumphs, and the lessons that shaped them. Their stories remind us that when women rise, businesses thrive, and the world moves forward.
+This Women’s Day, we shine a light on the fearless women redefining success in the business world. They are innovators, leaders, and changemakers - breaking barriers, challenging norms, and inspiring the next generation. In this special feature, we celebrate their journeys - the struggles, the triumphs, and the lessons that shaped them. Their stories remind us that when women rise, businesses thrive, and the world moves forward.
 
 Hello, I’m {{bdm_name}}, reaching out with an exclusive opportunity to feature you on the cover of our upcoming special edition: "**{{title}}**"
 
