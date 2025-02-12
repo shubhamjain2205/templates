@@ -1,1 +1,0 @@
-Invitation for Cover Story feature: '{{title}}'
