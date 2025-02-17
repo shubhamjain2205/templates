@@ -1,12 +1,12 @@
 Dear {{name}},
 
-I'm **{{bdm_name}}, Partnerships Manager at Frontier Blaze**, and I have an exciting proposition for you.
+I'm **{{bdm_name}}, Business Development Executive at Frontier Blaze**, and I have an exciting proposition for you.
 
 We would love to feature your remarkable journey in our upcoming edition, focusing on "**{{title}}**" where, your leadership and vision deserve to be front and centre in the spotlight!
 
 **Why Frontier Blaze?**
 
-Frontier Blaze magazine is one of the most esteemed brands in the business universe and has established itself as the premier business magazine. We have featured renowned brands such as **TCS, Starcom, Hirsch, Integration Technologies, Change-iT,** and many more, attracting a global readership and a growing base of returning clients. Our platform highlights emerging, leading, and fast-growing companies, their business strategies, and their impact—running across both print and digital platforms. We empower leaders like you to:
+Frontier Blaze is a premier platform dedicated to recognizing top industry leaders and visionaries. With a **readership of 20,000+ page viewership** and a **70:30 digital-to-print magazine distribution**, we ensure your feature reaches a highly engaged audience. As one of the most esteemed brands in the business universe, Frontier Blaze has established itself as the go-to business magazine, featuring renowned names such as **TCS, Starcom, Hirsch, Integration Technologies, Change-iT, and many more.** Our platform highlights emerging, leading, and fast-growing companies, their business strategies, and their impact—spanning both print and digital formats. We empower leaders like you to:
 
 ✅ Elevate your brand’s presence
 ✅ Reach key decision-makers
@@ -32,6 +32,6 @@ Kindly let me know if you're interested and I’ll take it from here! Looking fo
 
 Best regards,
 
-{{bdm_name}} | Partnerships Manager
+{{bdm_name}} | Business Development Executive
 
 You can also find us online by searching "Frontier Blaze" on Google.
