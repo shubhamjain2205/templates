@@ -1,34 +1,22 @@
 Dear {{name}},
 
-I'm **{{bdm_name}}, Business Development Executive at Frontier Blaze**, and I have an exciting proposition for you.
+I came across your profile and read about you - I knew right away that you deserve more recognition. Your work is shaping the industry, and we'd love to showcase your story on the **Cover of Frontier Blaze’s upcoming edition, "{{title}}."**
 
-We would love to feature your remarkable journey in our upcoming edition, focusing on "**{{title}}**" where, your leadership and vision deserve to be front and centre in the spotlight!
+This isn't just another magazine feature. It’s a chance to position you as a key industry leader in front of **20,000+ decision-makers, business professionals,** trusted by renowned names such as **TCS, Starcom, Hirsch, Integration Technologies, Change-iT, and many more.**
 
-**Why Frontier Blaze?**
+✅ **Be the face of the edition** - A striking **cover feature** that sets you apart.
 
-Frontier Blaze is a premier platform dedicated to recognizing top industry leaders and visionaries. With a **readership of 20,000+ page viewership** and a **70:30 digital-to-print magazine distribution**, we ensure your feature reaches a highly engaged audience. As one of the most esteemed brands in the business universe, Frontier Blaze has established itself as the go-to business magazine, featuring renowned names such as **TCS, Starcom, Hirsch, Integration Technologies, Change-iT, and many more.** Our platform highlights emerging, leading, and fast-growing companies, their business strategies, and their impact—spanning both print and digital formats. We empower leaders like you to:
+✅ **Your story, your way** - A compelling **six-page article** highlighting your leadership and vision.
 
-✅ Elevate your brand’s presence
-✅ Reach key decision-makers
-✅ Gain global recognition
+✅ **Unparalleled exposure** - **LinkedIn & social media promotions** that put you in front of top executives.
 
-**Exclusive Cover Story Package**
+✅ **Authority & trust** - A **Certificate of Honor & Recognition Badge** to showcase your industry impact.
 
-- **LinkedIn Feature** – A personalized 100-word LinkedIn post highlighting your selection, major achievements, and industry impact.
-- **Cover Feature** – Your image prominently displayed on the magazine cover, positioning you as a standing leader.
-- **Comprehensive Article** – A six-page feature showcasing your journey, leadership, and insights on the future of business and technology.
-- **Digital Copy + Reprint Rights** – A high-quality PDF of your article for sharing with your network.
-- **Full-Page Advertisement** – A full-page color ad in the next two editions of Frontier Blaze.
-- **Social Media Promotion** – Your feature will be extensively promoted across our social media platforms.
-- **Certificate of Honor** – Official recognition of your achievements for branding and marketing use.
-- **Recognition Badge** – A digital badge as a "{{title}}" for your website and social channels.
-- **Exclusive Web Page** – A dedicated webpage with a backlink to your company’s site, boosting SEO visibility.
+✅ **SEO boost** - A dedicated webpage with a backlink to your company, driving more visibility.
 
-**Next Steps**
+This exclusive feature is by invite only, and I'd love to discuss how we can craft an impactful narrative for you. To bring this vision to life, we request a **one-time sponsorship of {{price}}** to cover editorial, publishing, and promotional efforts.
 
-This feature will amplify your brand’s presence and establish you as a leader in your industry. To cover editorial, publishing, and promotional efforts, we request a **sponsorship contribution of {{price}}.**
-
-Kindly let me know if you're interested and I’ll take it from here! Looking forward to creating something extraordinary together.
+We would love to discuss this with you, looking forward to hearing your thoughts!
 
 Best regards,
 
