@@ -1,19 +1,15 @@
 Hi {{name}},
 
-I wanted to reach out one last time for your **Industry Leading** feature in **Frontier Blaze**. I've carefully reviewed your incredible work, and I believe your story deserves to be featured.
+I wanted to follow up one last time for your **Industry Leading** feature in Frontier Blaze. After reviewing your impressive work, I truly believe your story deserves to be shared with a wider audience.
 
-To ensure budget isn't a barrier, I've arranged a final concession:
+To make this title more accessible, we’ve adjusted the sponsorship to {{final_discount}}, covering essential editorial and promotional efforts - including publishing, global social media campaigns, and operational expenses.
 
-- **Original Sponsorship**: {{price}}
-- **Exclusive Sponsorship**: {{final_discount}}
+The deadline for this edition is closing this weekend, and I’d love to include your journey. If there’s anything you’d like to discuss - whether it’s the title, details, or any adjustments - let me know. I’d be happy to work with you to ensure it’s the right fit.
 
-This discounted sponsorship is just to cover the essential expenses required to bring your story to everyone. It includes **editorial efforts, global social media campaigns,** and **operational expenses** to ensure the feature runs smoothly.
-There are just few spots left, and I'd love to feature your journey. If there's anything you'd like to discuss, including adjustments to the title, details, or sponsorship, let me know, I'm happy to work with you to tailor this feature.
-
-Excited about the possibility of collaborating!
+Looking forward to your thoughts!
 
 Warm regards,
 
 {{bdm_name}} | Business Development Manager
 
-P.S. You can find us online by searching 'Frontier Blaze' on Google.
+P.S. You can find us online by searching Frontier Blaze on Google.
