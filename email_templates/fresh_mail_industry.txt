@@ -16,6 +16,6 @@ Looking forward to connecting!
 
 Warmly,
 
-{{bdm_name}}
+{{bdm_name}} | Business Development Executive
 
-Partnerships Team | Frontier Blaze
+Frontier Blaze
