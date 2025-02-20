@@ -26,7 +26,7 @@ Frontier Blaze is a premier platform dedicated to recognizing top industry leade
 
 **Next Steps**
 
-This feature will amplify your brand’s presence and establish you as a leader in your industry. To cover editorial, publishing, and promotional efforts, we request a **sponsorship contribution of {{price}}.**
+This feature will amplify your brand’s presence and establish you as a leader in your industry. To cover editorial, publishing, and promotional efforts, we require a **sponsorship contribution of {{price}}**. There is no upfront payment required - simply sign the contract, have your draft prepared and approved by you, and make the payment just before publication.
 
 Kindly let me know if you're interested and I’ll take it from here! Looking forward to creating something extraordinary together.
 
