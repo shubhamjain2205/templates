@@ -2,7 +2,7 @@ Hi {{name}},
 
 I wanted to follow up one last time for your **Industry Leading** feature in Frontier Blaze. After reviewing your impressive work, I truly believe your story deserves to be shared with a wider audience.
 
-To make this title more accessible, we’ve adjusted the sponsorship to {{final_discount}}, covering essential editorial and promotional efforts - including publishing, global social media campaigns, and operational expenses.
+As we approach the month’s end, we’re finalizing this feature, and I’d love to include your journey. To make this title more accessible, we’ve adjusted the sponsorship to just {{final_discount}}, covering essential editorial and promotional efforts - including publishing, global social media campaigns, and operational expenses.
 
 The deadline for this edition is closing this weekend, and I’d love to include your journey. If there’s anything you’d like to discuss - whether it’s the title, details, or any adjustments - let me know. I’d be happy to work with you to ensure it’s the right fit.
 
