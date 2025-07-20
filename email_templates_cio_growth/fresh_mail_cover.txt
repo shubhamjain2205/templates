@@ -1,0 +1,37 @@
+Dear {{name}},
+
+I’m {{bdm_name}}, Partnerships Manager at **CIO Growth**, and I’m reaching out with an invitation to be part of our **invite-only premium editorial - “The Black Edition Cover Story”**. This special edition is designed to spotlight a select group of exceptional individuals whose leadership and accomplishments set them apart and you’ve made it to that list.
+
+We would be honored to feature you under the title:
+
+**“{{title}}”**
+
+Your journey, values, and impact make you an ideal fit for this elevated showcase.
+
+(No, This Isn’t Another "Cover Story" Feature but something different)
+
+**What the Black Edition Includes:**
+
+1.	**Premium Cover Feature:** Your image on the cover of the Black Edition, positioning you among a curated group of influential leaders.
+2.	**Elegantly Designed 6-Page Article:** A professionally written and visually rich profile capturing your journey, achievements, and leadership insights.
+3.	**High-Resolution Digital Copy with Reprint Rights:** A downloadable PDF to share with your clients, network, and stakeholders.
+4.	**Exclusive Web Page:** A dedicated webpage hosting your article with a backlink to your company’s site - boosting your digital footprint.
+5.	**Social Media Promotion:** Wide visibility through targeted promotion across CIO Growth’s social media platforms.
+6.	**Certificate of Distinction:** An official certificate recognizing your inclusion in this premium editorial showcase.
+7.	**Black Edition Emblem:**A premium digital badge symbolizing your exclusive selection - ideal for websites, profiles, and branding.
+8.	**Five Complimentary Copies of the edition at your doorstep. **
+
+**Professional Recognition Fee: ${{price}}**
+
+This one-time fee covers all editorial, design, and promotional assets. Please note, the **Black Edition** is strictly invite-only and limited to a few outstanding leaders globally.
+If this resonates with your vision and you’re interested, I’d be happy to guide you through the next steps.
+
+Looking forward to the opportunity of featuring your story at its finest.
+
+Warm regards,
+
+{{bdm_name}} | Partnerships Manager 
+
+CIO Growth
+
+Our Website: www.ciogrowth.com
