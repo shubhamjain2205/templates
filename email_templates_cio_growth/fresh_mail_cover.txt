@@ -1,12 +1,12 @@
 Dear {{name}},
 
-I’m {{bdm_name}} from CIO Growth, and I’m reaching out because our editorial team is currently finalizing the profiles for our upcoming invite-only premium edition, **"The Black Edition Cover Story"** and after reviewing an impressive lineup of industry leaders, our editorial team has selected you for a upcoming Black Edition Cover Story.
+I’m {{bdm_name}} from CIO Growth, and I’m reaching out because our editorial team is currently finalizing the profiles for our upcoming invite-only **"The Black Edition Cover Story"** and after reviewing an impressive lineup of industry leaders, our editorial team has selected your name for this edition.
 
 You are being considered under the title:
 
 **“{{title}}”**
 
-Your profile fits perfectly with the theme of this magazine, which highlights individuals shaping the future of their industries with innovation, impact, and purpose. This edition is designed to spotlight individuals whose leadership, innovation, and influence define the next era of growth and transformation, and your journey perfectly aligns with that vision.
+Your profile fits perfectly with the theme of this magazine, which is designed to spotlight individuals whose leadership, innovation, and influence define the next era of growth and transformation.
 
 **Here’s what the Black Edition Cover Story includes:**
 
@@ -29,9 +29,6 @@ To confirm your participation, there’s a one-time fee of just **${{price}}**, 
 Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. We’d be honored to showcase your story in this landmark edition. Let me know if you’d like me to confirm your inclusion and share the next steps.
 
 Warm regards,
-
 {{bdm_name}} | Partnerships Manager
-
 CIO Growth
-
 Visit us: www.ciogrowth.com
