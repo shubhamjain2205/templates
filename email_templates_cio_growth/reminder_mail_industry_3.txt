@@ -1,0 +1,18 @@
+Dear {{name}},
+
+This is the **final reminder** regarding your shortlisting for the **2025 Frontier 100s**, our annual global feature in collaboration with **Frontier Blaze Magazine.**
+
+We’ve now reached the final phase of selection, and **only 5 spots remain** before the list is officially closed for publication.
+
+If you’d like your name to be part of this year’s global recognition issue, please confirm **today** to secure your position.
+
+After the remaining spots are filled, we’ll be closing confirmations for this edition.
+
+Warm regards,
+
+{{bdm_name}} | Partnerships Manager
+
+CIO Growth
+
+In Collaboration with Frontier Blaze Magazine 
+(www.frontierblaze.com)

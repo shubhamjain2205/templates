@@ -1,0 +1,18 @@
+Dear {{name}},
+
+Just a quick follow-up regarding your shortlisting for the **2025 Frontier 100s**, a special collaborative feature by **CIO Growth and Frontier Blaze Magazine.**
+
+Our editorial team is finalizing the lineup, and as of now, **only 28 spots remain** out of the 100 available positions.
+
+Your profile was among those selected for this exclusive global recognition, and we’d be delighted to include your story in this year’s issue.
+
+Please confirm your participation at your earliest convenience so we can reserve your position before the edition closes.
+
+Warm regards,
+
+{{bdm_name}} | Partnerships Manager
+
+CIO Growth
+
+In Collaboration with Frontier Blaze Magazine 
+(www.frontierblaze.com)

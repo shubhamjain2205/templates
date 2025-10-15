@@ -1,0 +1,18 @@
+Dear {{name}},
+
+We’re almost at capacity for this year’s **2025 Frontier 100s** edition, created in collaboration between **CIO Growth** and **Frontier Blaze Magazine.**
+
+As of today, **only 12 spots remain** in the final list of 100 leaders to be featured globally this December.
+
+Your name is still shortlisted, and we’d love to include your achievements among the other top professionals shaping the future through leadership and innovation.
+
+**Please confirm soon to secure your inclusion before the remaining spots are assigned.**
+
+Warm regards,
+
+{{bdm_name}} | Partnerships Manager
+
+CIO Growth
+
+In Collaboration with Frontier Blaze Magazine 
+(www.frontierblaze.com)
