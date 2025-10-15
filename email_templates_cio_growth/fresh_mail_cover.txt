@@ -25,10 +25,9 @@ Your profile fits perfectly with the theme of this magazine, which is designed t
 7.	**Black Edition Emblem:** A digital badge representing your exclusive selection - perfect for websites, profiles, and marketing materials.
 
 To confirm your participation, there’s a one-time fee of just **${{price}}**, which directly contributes to production and post-publication promotional costs.
-
 Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. We’d be honored to showcase your story in this landmark edition. Let me know if you’d like me to confirm your inclusion and share the next steps.
 
-Warm regards, 
-{{bdm_name}} | Partnerships Manager 
-CIO Growth 
-Visit us: www.ciogrowth.com 
+Warm regards,  
+{{bdm_name}} | Partnerships Manager  
+CIO Growth  
+Visit us: www.ciogrowth.com  
