@@ -42,9 +42,10 @@ This feature is designed as a long-tail authority asset that continues to repres
 
 The one-time investment for the complete editorial feature and distribution is **{{price}}**, covering editorial production, design, hosting, and post-publication promotion.
 
-Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. We’d be honoured to showcase your story in this landmark edition. Let me know if you’d like me to confirm your inclusion and share the next steps.
+Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. As you've been shortlisted by our editorial team, we’d be honoured to showcase your story in this landmark edition. 
+
+Let me know if you’d like me to confirm your inclusion and share the next steps.
 
 Warm regards,	
-{{bdm_name}}	
-Partnerships Manager | CIO Growth	
-www.ciogrowth.com	
+{{bdm_name}} | Partnerships Manager   
+www.ciogrowth.com   
