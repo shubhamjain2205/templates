@@ -1,32 +1,50 @@
 Dear {{name}},
 
-I’m {{bdm_name}} from CIO Growth, and I’m reaching out because our editorial team is currently finalizing the profiles for our upcoming invite-only **"The Black Edition Cover Story"** and after reviewing an impressive lineup of industry leaders, our editorial team has selected your name for this edition.
+I’m {{bdm_name}} from CIO Growth, reaching out because our editorial board has selected you for an upcoming CIO Growth **Black Edition Cover Story**, curated to highlight influencing leaders driving transformation, innovation, and measurable impact across global enterprises.
 
-You are being considered under the title:
+You are being considered under the editorial title:
 
-**“{{title}}”**
+**"{{title}}"**
 
-Your profile fits perfectly with the theme of this magazine, which is designed to spotlight individuals whose leadership, innovation, and influence define the next era of growth and transformation.
+A CIO Growth Cover Story positions you in front of a global readership of CIOs, CTOs, C-suite executives, founders, and enterprise decision-makers who actively engage with our long-form editorial content across web, email, and professional digital platforms.
 
-**Here’s what the Black Edition Cover Story includes:**
+Our Black Edition is not designed as a short-term announcement, but as a high-authority editorial asset that delivers sustained visibility, credibility, and brand recall over time. Recent editions consistently generate strong digital traction and long-term discoverability through search and professional sharing.
 
-1.	**Front Page Feature:** Your image on the cover of The Black Edition, placing you among a select group of global leaders.
+Based on recent publication data, a single cover feature typically delivers:
 
-2.	**Six-Page Editorial Feature:** A beautifully designed and professionally written profile capturing your journey, impact, and insights.
+- **20,000-40,000+ targeted digital impressions** across web, email, and professional social distribution.  
+- **High-intent readership** from senior technology leaders, enterprise decision-makers, and industry influencers worldwide.  
+- **Permanent online visibility**, with backlinks that continue driving brand discovery and SEO value well beyond publication.
 
-3.	**Exclusive Digital Copy:** A high-resolution PDF of your feature with full reprint rights - ideal for sharing with clients and networks.
+Your leadership profile aligns strongly with the editorial focus of this edition, which is carefully curated to showcase leaders shaping the future of technology, business growth, and digital transformation.
 
-4.	**Dedicated Web Page:** A personalized online page hosting your story with a backlink to your company website to enhance visibility and SEO value.
+**What this Black Edition Cover Story delivers:**
 
-5.	**Targeted Social Media Promotion:** Amplified exposure through CIO Growth’s professional digital channels.
+1. **Front Cover Positioning**	
+   Your image and story positioned as a leading voice within CIO Growth’s globally distributed Black Edition.
 
-6.	**Certificate of Distinction:** Official recognition of your inclusion in this premium edition.
+2. **Six-Page Editorial Feature**	
+   A professionally written, narrative-driven feature highlighting your leadership journey, strategic decisions, and industry perspective.
 
-7.	**Black Edition Emblem:** A digital badge representing your exclusive selection - perfect for websites, profiles, and marketing materials.
+3. **Dedicated Online Feature Page**	
+   A permanent profile hosted on CIO Growth with backlinks to your organisation for ongoing visibility and authority.
 
-To confirm your participation, there’s a one-time fee of just **${{price}}**, which directly contributes to production and post-publication promotional costs. Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. We’d be honored to showcase your story in this landmark edition. Let me know if you’d like me to confirm your inclusion and share the next steps.
+4. **Multi-Channel Promotion**	
+   Distribution across CIO Growth’s website, email campaigns, and professional social channels to extend reach beyond publication day.
 
-Warm regards,  
-{{bdm_name}} | Partnerships Manager  
-CIO Growth  
-Visit us: www.ciogrowth.com
+5. **Recognition Credentials**	
+   An official digital certificate and Black Edition emblem for professional and brand use.
+
+6. **Exclusive Digital Copy**	
+   A high-resolution digital edition of your cover feature for sharing within your network and organisation.
+
+This feature is designed as a long-tail authority asset that continues to represent your leadership and influence well after publication.
+
+The one-time investment for the complete editorial feature and distribution is **{{price}}**, covering editorial production, design, hosting, and post-publication promotion.
+
+Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. We’d be honoured to showcase your story in this landmark edition. Let me know if you’d like me to confirm your inclusion and share the next steps.
+
+Warm regards,	
+{{bdm_name}}	
+Partnerships Manager | CIO Growth	
+www.ciogrowth.com	
