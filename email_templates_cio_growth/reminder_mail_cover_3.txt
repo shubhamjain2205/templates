@@ -2,9 +2,9 @@ Dear {{name}},
 
 As we enter the final stage of confirming our Black Edition leaders, I wanted to extend a final gesture of appreciation and flexibility.
 
-If the recognition fee has been a concern, we are happy to offer you a **20% concession,** bringing your total to **${{discount_price}}** (reduced from ${{price}}), with all original benefits - PLUS the complimentary $300 Interview feature - still included.
+If the recognition fee has been a concern, we are happy to offer you a concession, by bringing your total to **${{discount_price}}** (reduced from ${{price}}), with all original benefits - PLUS the complimentary $150 Interview feature - still included.
 
-We would truly love to have your vision featured in this historic editorial. If you’d like to secure your spot or have any further questions, just reply to this message and I can take care of the rest right away.
+We would truly love to have your vision featured in this historic editorial. If you’d like to secure your spot or have any further questions, just reply to this email and I can take care of the rest right away.
 
 Thank you again for considering this invitation.
 
