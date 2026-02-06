@@ -1,10 +1,10 @@
 Dear {{name}},
 
-Wanted to follow up and share an exclusive offer: to further recognize your leadership, we’d be delighted to include a **complimentary Interview Feature** on the CIO Growth platform (valued at $300 USD) at no additional cost. This in-depth Q&A-style digital profile will provide you with another premium touchpoint for your brand and thought leadership, in addition to your Black Edition Cover Story.
+Wanted to follow up and share an exclusive offer: to further recognize your leadership, we’d be delighted to include a **complimentary "Interview Feature"** on the CIO Growth platform (valued at $150 USD) at no additional cost. This in-depth Q&A-style digital profile will provide you with another premium touchpoint for your brand and thought leadership, in addition to your Black Edition Cover Story.
 
-Both the Black Edition and the Interview feature are covered under the same ${{price}} fee, with all the editorial, branding, and promotional benefits previously outlined. This dual visibility is unique to a select few, and our team will handle all writing, design, and publication.
+Both the Black Edition and the Interview feature are covered under the same **{{price}}** fee, with all the editorial, branding, and promotional benefits previously outlined. This dual visibility is unique to a select few, and our team will handle all writing, design, and publication.
 
-Let me know if you’d like more details or wish to confirm your participation - it's a limited offer and we’re almost at capacity.
+Let me know if you’d like more details or wish to confirm your participation - it's a limited offer and we’re about to close this edition.
 
 Warm regards,  
 {{bdm_name}} | Partnerships Manager  
