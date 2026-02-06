@@ -1,10 +1,10 @@
 Dear {{name}},
 
-I’m {{bdm_name}}, Partnerships Manager at CIO Growth. It is an honor to share that our editorial board has shortlisted you to be featured on the cover page of an upcoming Black Edition of CIO Growth's edition titled:
+I’m {{bdm_name}}, Partnerships Manager at CIO Growth. It’s an honor to share that our editorial board has shortlisted you to be featured on the cover of our upcoming **Black Edition - CIO Growth’s premium flagship edition**, titled:
 
 **"{{title}}"**
 
-CIO Growth's cover story places you in front of a **global audience of senior leaders, founders, investors, and decision-makers** who actively consume our long-form features across web, email, and social platforms.	
+“Black Edition” is our highest-tier, luxury-format release and it places you in front of a **global audience of senior leaders, founders, investors, and decision-makers** who actively consume our long-form features across web, email, and social platforms.	
 Our editions consistently deliver **five-figure cumulative digital impressions**, long-term search visibility, and evergreen brand authority, not a one-week press mention.
 
 Based on recent editions, a single cover feature typically receives:
@@ -14,7 +14,7 @@ Based on recent editions, a single cover feature typically receives:
 - **Permanent online visibility:** Features include backlinks that continue driving brand discovery and SEO value over time.	
 - **Newsletter amplification:** Monthly newsletters ensure features reach a highly relevant and attentive audience.
 
-With that context, your profile aligns strongly with the editorial focus of this issue, which is curated to highlight leaders shaping the future of their industries through measurable impact and operational leadership.
+With that context, your profile aligns strongly with the editorial focus of this issue, curated to highlight leaders driving measurable impact and operational excellence.
 
 **What this Cover Story delivers:**
 
@@ -42,7 +42,7 @@ With that context, your profile aligns strongly with the editorial focus of this
 This is not designed as a short-term promotion, but as a long-tail authority asset that continues to represent your leadership long after publication.	
 The one-time investment for the complete editorial feature and distribution is **{{price}}**, covering editorial production, design, hosting, and post-publication promotion.
 
-Please note that The Black Edition is strictly limited to a few distinguished leaders worldwide and is not open for general participation. As you've been shortlisted by our editorial team, we’d be honoured to showcase your story in this landmark edition. 
+Please note that the **Black Edition is strictly limited to a few distinguished global leaders** and is not open for general participation. As you've been shortlisted by our editorial team, we’d be honoured to showcase your story in this landmark edition. 
 
 Let me know if you’d like me to confirm your inclusion and share the next steps.
 
