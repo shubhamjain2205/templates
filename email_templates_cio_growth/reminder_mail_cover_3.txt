@@ -1,6 +1,6 @@
 Dear {{name}},
 
-As we enter the final stage of confirming our Black Edition leaders, I wanted to extend a final gesture of appreciation and flexibility.
+As we enter the final stage of confirming our Black Edition - CIO Growth’s premium flagship cover story leaders, I wanted to extend a final gesture of appreciation and flexibility.
 
 If the recognition fee has been a concern, we are happy to offer you a concession, by bringing your total to **{{discount_price}}** (reduced from {{price}}), with all original benefits - PLUS the complimentary "Interview Feature" - still included.
 
