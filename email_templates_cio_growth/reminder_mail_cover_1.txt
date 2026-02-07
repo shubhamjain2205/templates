@@ -1,10 +1,9 @@
 Dear {{name}},
 
-Just checking in to see if you had a chance to consider our invitation for **“The Black Edition Cover Story”**. This is a highly selective feature and we are in the process of filling our lineup of leaders. Your inclusion would be a powerful addition.
+Just following up to see if you had a chance to review our invitation for the **Black Edition - CIO Growth’s premium flagship cover story.**	
+We’re currently finalizing this edition and would be glad to reserve a spot for you if it aligns with your plans.
 
-If you have any preliminary questions, or if there’s a detail you’d like clarified about the package, please let me know - I’m here to help.
-
-Looking forward to your thoughts.
+Happy to clarify anything if helpful.
 
 Warm regards,  
 {{bdm_name}} | Partnerships Manager  
