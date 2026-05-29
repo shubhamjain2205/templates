@@ -4,7 +4,7 @@ I’m {{bdm_name}}, Partnerships Manager at CIO Growth. It’s an honor to share
 
 **"{{title}}"**
 
-“Black Edition” is our highest-tier, luxury-format release and it places you in front of a **global audience of senior leaders, founders, investors, and decision-makers** who actively consume our long-form features across web, email, and social platforms.	
+“Black Edition” is our highest-tier, release and it places you in front of a **global audience of senior leaders, founders, investors, and decision-makers** who actively consume our long-form features across web, email, and social platforms.	
 Our editions consistently deliver **five-figure cumulative digital impressions**, long-term search visibility, and evergreen brand authority, not a one-week press mention.
 
 Based on recent editions, a single cover feature typically receives:
@@ -46,4 +46,3 @@ Let me know if you’d like me to confirm your inclusion and share the next step
 Warm regards,	
 {{bdm_name}} | Partnerships Manager   
 CIO Growth	
-Our Website: www.ciogrowth.com   
