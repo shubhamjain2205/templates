@@ -1,13 +1,25 @@
 Dear {{name}},
 
-As we enter the final stage of confirming our Black Edition - CIO Growth’s premium flagship cover story leaders, I wanted to extend a final gesture of appreciation and flexibility.
+I wanted to reach out one final time regarding your invitation to be featured in the **CIO Growth’s premier flagship cover story.**
 
-If the recognition fee has been a concern, we are happy to offer you a concession, by bringing your total to **{{discount_price}}** (reduced from {{price}}), with all original benefits - PLUS the complimentary "Interview Feature" - still included.
+As a gesture of appreciation and flexibility, if the recognition fee has been a consideration, we are pleased to offer you a concession by bringing your total investment to **{{discount_price}}** (reduced from {{price}}), while retaining **all original benefits,** including the **complimentary Interview Feature** at no additional cost.
 
-We would truly love to have your vision featured in this historic editorial. If you’d like to secure your spot or have any further questions, just reply to this email and I can take care of the rest right away.
+This means you'll receive:
+
+**-Legacy Edition Cover Story Feature**	
+**-Six-Page Editorial Profile**	
+**-Dedicated Online Feature Page**	
+**-Multi-Channel Promotion**	
+**-Recognition Credentials**	
+**-Extended Brand Exposure**	
+**-Complimentary Interview Feature**	
+
+We believe your leadership story would be a valuable addition to this edition, which is dedicated to recognizing executives and innovators creating a lasting impact within their industries.
+
+If you'd like to secure your participation or have any questions, simply reply to this email and I'll be happy to assist.
 
 Thank you again for considering this invitation.
 
-Warm regards,  
-{{bdm_name}} | Partnerships Manager  
-CIO Growth  
+Warm regards,	
+{{bdm_name}} | Partnerships Manager	
+CIO Growth	
