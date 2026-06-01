@@ -1,48 +1,48 @@
 Dear {{name}},
 
-I’m {{bdm_name}}, Partnerships Manager at CIO Growth. It’s an honor to share that our editorial board has shortlisted you to be featured on the cover of our upcoming **Black Edition - CIO Growth’s premium flagship edition**, titled:
+I’m {{bdm_name}}, Partnerships Manager at CIO Growth. It’s an honor to share that our editorial board has shortlisted you to be featured on the cover of our upcoming **Legacy Edition - CIO Growth’s premier flagship release**, titled:
 
 **"{{title}}"**
 
-“Black Edition” is our highest-tier, release and it places you in front of a **global audience of senior leaders, founders, investors, and decision-makers** who actively consume our long-form features across web, email, and social platforms.	
-Our editions consistently deliver **five-figure cumulative digital impressions**, long-term search visibility, and evergreen brand authority, not a one-week press mention.
+The **Legacy Edition** is dedicated to recognizing leaders whose vision, innovation, and influence are creating lasting impact within their industries and beyond. As our most distinguished annual release, it places selected executives in front of a **global audience of senior leaders, founders, investors, and decision-makers** who actively engage with our long-form features across web, email, and social platforms.	
+Our editions consistently deliver **five-figure cumulative digital impressions,** long-term search visibility, and enduring brand authority - not merely a short-term mention.
 
 Based on recent editions, a single cover feature typically receives:
 
-- **Extensive digital reach:** Generates 25,000 - 40,000+ targeted impressions across web, email, and social channels, from a global audience of 20,000+ monthly page views including CEOs, Founders, Managing Directors, industry professionals, entrepreneurs, and engaged web followers.	
-- **Global audience distribution:** 30% USA | 20% Canada | 20% Europe | 15% South Asia | 10% Australia | 5% other regions.	
-- **Permanent online visibility:** Features include backlinks that continue driving brand discovery and SEO value over time.	
-- **Newsletter amplification:** Monthly newsletters ensure features reach a highly relevant and attentive audience.
+**- Extensive digital reach:** Generates 25,000 - 40,000+ targeted impressions across web, email, and social channels, from a global audience of 20,000+ monthly page views including CEOs, Founders, Managing Directors, industry professionals, entrepreneurs, and engaged web followers.	
+**- Permanent online visibility:** Features include backlinks that continue driving brand discovery and SEO value over time.	
+**- Newsletter amplification:** Monthly newsletters ensure features reach a highly relevant and attentive audience.	
 
-With that context, your profile aligns strongly with the editorial focus of this issue, curated to highlight leaders driving measurable impact and operational excellence.
+With that context, your profile aligns strongly with the editorial focus of this issue, curated to highlight leaders whose achievements, strategic vision, and contributions are leaving a meaningful legacy in their field.
 
 **What this Cover Story delivers:**
 
 **1. Front Cover Positioning**	
-     Your image and story positioned as a leading voice within a globally distributed editorial edition.
-	 
-**2. Six-Page Editorial Feature**	
-     A professionally written, narrative-driven feature focused on your journey, leadership decisions, and industry perspective.
-	 
-**3. Dedicated Online Feature Page**	
-     A permanent profile hosted on CIO Growth with backlinks to your organization for continued visibility.
-	 
-**4. Multi-Channel Promotion**	
-     Distribution across CIO Growth’s website, email campaigns, and social channels to extend reach beyond publication day.
-	 
-**5. Recognition Credentials**	
-     An official certificate and digital recognition badge for professional use.
-	 
-**6. Extended Brand Exposure**	
-     A complimentary full-page colour advertisement included in two subsequent editions.
+Your image and story positioned as a leading voice within a globally distributed editorial edition.
 
-This is not designed as a short-term promotion, but as a long-tail authority asset that continues to represent your leadership long after publication.	
+**2. Six-Page Editorial Feature**	
+A professionally written, narrative-driven feature focused on your journey, leadership decisions, accomplishments, and industry perspective.
+
+**3. Dedicated Online Feature Page**	
+A permanent profile hosted on CIO Growth with backlinks to your organization for continued visibility.
+
+**4. Multi-Channel Promotion**	
+Distribution across CIO Growth’s website, email campaigns, and social channels to extend reach beyond publication day.
+
+**5. Recognition Credentials**	
+An official certificate and digital recognition badge for professional use.
+
+**6. Extended Brand Exposure**	
+A complimentary full-page colour advertisement included in two subsequent editions.
+
+This is not designed as a short-term promotion, but as a long-term authority asset that continues to represent your leadership and professional legacy long after publication.
+
 The one-time investment for the complete editorial feature and distribution is **{{price}}**, covering editorial production, design, hosting, and post-publication promotion.
 
-Please note that the **Black Edition is strictly limited to a few distinguished global leaders** and is not open for general participation. As you've been shortlisted by our editorial team, we’d be honoured to showcase your story in this landmark edition. 
+Please note that the **Legacy Edition is strictly limited to a select group of distinguished global leaders** and is not open for general participation. As you've been shortlisted by our editorial team, we'd be honored to showcase your story in this prestigious edition.
 
-Let me know if you’d like me to confirm your inclusion and share the next steps.
+Let me know if you're interested and share the next steps. Looking forward to hearing from you.
 
 Warm regards,	
-{{bdm_name}} | Partnerships Manager   
+{{bdm_name}} | Partnerships Manager	
 CIO Growth	
