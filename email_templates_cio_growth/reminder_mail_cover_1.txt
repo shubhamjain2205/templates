@@ -1,10 +1,14 @@
 Dear {{name}},
 
-Just following up to see if you had a chance to review our invitation for the cover story.	
-The editorial board felt your profile aligned strongly with the theme of this edition, and we'd be delighted to explore the opportunity with you if there's interest.
+I wanted to follow up regarding the invitation to be featured in our upcoming cover edition, **"{{title}}"**.
 
-Happy to clarify anything if helpful.
+We're currently nominating more leaders to the editorial lineup and beginning the content planning phase for this issue. Since your profile aligns well with the theme of the edition, I wanted to check whether this is something you would be interested in featuring.
 
-Warm regards,  
-{{bdm_name}} | Partnerships Manager  
-CIO Growth  
+To keep the production schedule on track, we're confirming participation over the next few days and would appreciate hearing your inclusion.
+
+If you'd like additional details, or information about the editorial process, I'd be happy to share them.	
+I look forward to hearing from you soon.
+
+Warm regards,	
+{{bdm_name}} | Partnerships Manager	
+CIO Growth	
