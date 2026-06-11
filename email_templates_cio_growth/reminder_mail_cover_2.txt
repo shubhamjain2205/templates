@@ -1,14 +1,13 @@
 Dear {{name}},
 
-I wanted to follow up and share an additional benefit we're pleased to extend alongside your invitation to the cover story.
+I wanted to check regarding the cover story invitation for the title **"{{title}}"**.
 
-As a gesture of recognition for the leaders selected for this edition, we'd be delighted to include a **complimentary "Interview Feature"** on the CIO Growth platform at **no additional cost.** This in-depth Q&A-style digital profile provides an additional platform to share your insights, leadership journey, and industry perspective with our audience.
+Our editorial and design teams have now started allocating feature positions and production timelines for the edition. Before we finalize the remaining placements, I wanted to check whether you would like us to reserve the cover spot for your profile.
 
-The **Interview Feature is being provided entirely complimentary** and is included alongside your **Cover Story** under the same **{{price}}** investment, with all editorial, branding, and promotional benefits previously outlined. Our team will handle the writing, design, and publication of both features.
+If participating is of interest, a brief confirmation would allow us to keep the space available while we discuss the next steps.
 
-This additional visibility opportunity is reserved for a limited number of leaders featured in the Legacy Edition and is intended to further strengthen the long-term value and reach of your feature.
-
-Let me know if you'd like more details or wish to confirm your participation.
+As the issue moves into production, cover placements will become more limited, so I wanted to reach out before final decisions are made.	
+Looking forward to hearing from you.
 
 Warm regards,	
 {{bdm_name}} | Partnerships Manager	
