@@ -1,14 +1,11 @@
-Dear {{name}},
+Hi {{name}},
 
-I wanted to check regarding the cover story invitation for the title **"{{title}}"**.
+We're in the final stages of confirming leaders for the **"{{title}}"** edition. I wanted to extend the opportunity once more before we close the selection process.
 
-Our editorial and design teams have now started allocating feature positions and production timelines for the edition. Before we finalize the remaining placements, I wanted to check whether you would like us to reserve the cover spot for your profile.
+As a reminder, the feature includes a six-page editorial profile, cover placement, and digital promotion to an audience of 40,000+ senior leaders.
 
-If participating is of interest, a brief confirmation would allow us to keep the space available while we discuss the next steps.
+If the timing isn't suitable, I completely understand. Simply let me know and I'll update our records accordingly.
 
-As the issue moves into production, cover placements will become more limited, so I wanted to reach out before final decisions are made.	
-Looking forward to hearing from you.
-
-Warm regards,	
-{{bdm_name}} | Partnerships Manager	
-CIO Growth	
+Warm regards,  
+{{bdm_name}} | Partnerships Manager  
+CIO Growth  
