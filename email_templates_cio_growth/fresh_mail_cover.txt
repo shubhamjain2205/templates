@@ -1,19 +1,17 @@
 Dear {{name}},
 
-I’m {{bdm_name}}, Partnerships Manager at CIO Growth, and we're currently preparing an upcoming cover edition titled:
+Most leadership profiles celebrate the polished outcome. I'm more interested in the messy, strategic bets you made that never made the press release - the real story behind your rise. That's exactly the kind of narrative we're building for CIO Growth's next cover edition:
 
 **"{{title}}"**
 
-As part of this edition, we're speaking with executives whose work, leadership, and industry contributions align with the theme of the publication. Based on our research, we believe your profile would be a strong fit for consideration.
-
-The edition will feature selected leaders through in-depth editorial profiles published across CIO Growth's digital channels, including our website, newsletters, and social media platforms.
+For this edition, I'm looking for leaders who've made hard calls, not just safe ones - and your trajectory suggests you're exactly that kind of executive.
 
 **What the Cover Story includes:**
 
 **1. Cover Placement:** Your image featured on the cover of the edition.	
 **2. Six-Page Editorial Profile:** A professionally written feature covering your career journey, leadership experience, achievements, and industry insights.	
 **3. Online Feature Page:** A dedicated profile page on CIO Growth with links to your organization.  
-**4. Digital Promotion:** Promotion across our website, newsletters, and social media channels following publication.	
+**4. Digital Promotion:** Promotion across our website, newsletters, and social media channels following publication.  
 **5. Recognition Assets:** A digital certificate and recognition badge for professional use.	
 **6. Additional Advertising Placement:** A complimentary full-page colour advertisement in two subsequent editions.	
 
@@ -21,9 +19,8 @@ Recent editions have generated over 40,000 impressions across our digital channe
 
 The investment for participation is **{{price}}**, which covers editorial development, content production, design, publication, hosting, and promotional activities.
 
-If this opportunity is of interest, I'd be happy to share additional details about CIO Growth, our readership, impressions and the editorial process.	
-Looking forward to hearing from you.
+If this opportunity is of interest, I'd be happy to share additional details about CIO Growth, our readership, impressions, and the editorial process.
 
-Warm regards,	
-{{bdm_name}} | Partnerships Manager	
-CIO Growth	
+Warm regards,  
+{{bdm_name}} | Partnerships Manager  
+CIO Growth  
