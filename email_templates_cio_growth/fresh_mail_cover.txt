@@ -21,9 +21,9 @@ Recent editions have generated over 40,000 impressions across our digital channe
 
 The investment for participation is **{{price}}**, which covers editorial development, content production, design, publication, hosting, and promotional activities.
 
-If this opportunity is of interest, I'd be happy to share additional details, and the editorial process.	
+If this opportunity is of interest, I'd be happy to share additional details about CIO Growth, our readership, impressions and the editorial process.	
 Looking forward to hearing from you.
 
 Warm regards,	
 {{bdm_name}} | Partnerships Manager	
-CIO Growth
+CIO Growth	
