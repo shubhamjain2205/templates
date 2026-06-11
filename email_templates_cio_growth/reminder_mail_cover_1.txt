@@ -1,14 +1,11 @@
-Dear {{name}},
+Hi {{name}},
 
-I wanted to follow up regarding the invitation to be featured in our upcoming cover edition, **"{{title}}"**.
+I wanted to circle back on my earlier note regarding CIO Growth's upcoming edition, **"{{title}}"**.
 
-We're currently nominating more leaders to the editorial lineup and beginning the content planning phase for this issue. Since your profile aligns well with the theme of the edition, I wanted to check whether this is something you would be interested in featuring.
+I understand your inbox is busy, so here's the essence: we're featuring a select group of leaders whose career decisions reflect the kind of conviction this edition celebrates. Your profile stood out during our research.
 
-To keep the production schedule on track, we're confirming participation over the next few days and would appreciate hearing your inclusion.
+If you'd like a brief overview of the opportunity, I'm happy to share it. No obligation, just information.
 
-If you'd like additional details, or information about the editorial process, I'd be happy to share them.	
-I look forward to hearing from you soon.
-
-Warm regards,	
-{{bdm_name}} | Partnerships Manager	
-CIO Growth	
+Warm regards,  
+{{bdm_name}} | Partnerships Manager  
+CIO Growth  
