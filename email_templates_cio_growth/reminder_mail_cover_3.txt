@@ -1,17 +1,11 @@
-Dear {{name}},
+Hi {{name}},
 
-This will be my final follow-up regarding the opportunity to be featured in our upcoming cover edition, **"{{title}}"**.
+I'm writing one last time as we prepare to close the "{{title}}" edition.
 
-The edition is scheduled to move into final production shortly, and our team is in the process of closing the remaining editorial placements. Since we previously identified your profile as a strong fit for this issue, I wanted to reach out one last time before the lineup is finalized.
+To acknowledge the value of your participation, I'd like to extend an additional discount on the standard fee, bringing the investment to **{{discounted_price}}** instead of {{price}}, with no changes to the scope of the feature or promotion.
 
-To accommodate last-minute confirmations, we're able to offer a reduced participation fee of **{{discounted_price}}** (reduced from {{price}}) if we receive confirmation before the production schedule is locked.
+If this is of interest, I can share the complete details today. If not, I appreciate your time and will ensure no further follow-ups on this.
 
-After this stage, we may not be able to accommodate cover profile within the current edition.
-
-If you'd like to participate, simply reply to this email and I'll share the next steps. Otherwise, no action is required, and we will update our records accordingly.
-
-Thank you for your time and consideration, I look forward to hearing from you soon.
-
-Warm regards,	
-{{bdm_name}} | Partnerships Manager	
-CIO Growth	
+Warm regards,  
+{{bdm_name}} | Partnerships Manager  
+CIO Growth  
