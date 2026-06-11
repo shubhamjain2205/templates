@@ -1,26 +1,26 @@
 Dear {{name}},
 
-Most leadership profiles celebrate the polished outcome. I'm more interested in the messy, strategic bets you made that never made the press release - the real story behind your rise. That's exactly the kind of narrative we're building for CIO Growth's next cover edition:
+Most leadership profiles celebrate the polished outcome. I'm more interested in the messy, strategic bets you made that never made the press release. The real story behind your rise. That's exactly the kind of narrative we're building for CIO Growth's next cover edition:
 
 **"{{title}}"**
 
-For this edition, I'm looking for leaders who've made hard calls, not just safe ones - and your trajectory suggests you're exactly that kind of executive.
+For this edition, I'm looking for leaders who've made hard calls, not just safe ones - and your career suggests you've made more than a few.
 
 **What the Cover Story includes:**
 
 **1. Cover Placement:** Your image featured on the cover of the edition.	
 **2. Six-Page Editorial Profile:** A professionally written feature covering your career journey, leadership experience, achievements, and industry insights.	
-**3. Online Feature Page:** A dedicated profile page on CIO Growth with links to your organization.  
-**4. Digital Promotion:** Promotion across our website, newsletters, and social media channels following publication.  
+**3. Online Feature Page:** A dedicated profile page on CIO Growth with links to your organization.	
+**4. Digital Promotion:** Promotion across our website, newsletters, and social media channels following publication.	
 **5. Recognition Assets:** A digital certificate and recognition badge for professional use.	
 **6. Additional Advertising Placement:** A complimentary full-page colour advertisement in two subsequent editions.	
 
-Recent editions have generated over 40,000 impressions across our digital channels, including our website, email newsletters, and social media platforms.
+Our recent editions have reached over 40,000 senior leaders across our digital channels. This isn't a volume play. It's targeted reach, built for decision-makers like you.
 
-The investment for participation is **{{price}}**, which covers editorial development, content production, design, publication, hosting, and promotional activities.
+The cost is **{{price}}**. That covers end-to-end editorial development, production, design, publication, and promotion. No hidden fees beyond this.
 
-If this opportunity is of interest, I'd be happy to share additional details about CIO Growth, our readership, impressions, and the editorial process.
+If the fit feels right, I'll walk you through our readership, the editorial process, and what a cover feature looks like in practice. No commitment, just clarity and I look forward to hearing from you.
 
-Warm regards,  
-{{bdm_name}} | Partnerships Manager  
-CIO Growth  
+Warm regards,	
+{{bdm_name}} | Partnerships Manager	
+CIO Growth	
