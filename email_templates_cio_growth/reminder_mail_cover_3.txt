@@ -2,7 +2,7 @@ Hi {{name}},
 
 I'm writing one last time as we prepare to close the "{{title}}" edition.
 
-To acknowledge the value of your participation, I'd like to extend an additional discount on the standard fee, bringing the investment to **{{discounted_price}}** instead of {{price}}, with no changes to the scope of the feature or promotion.
+To acknowledge the value of your participation, I'd like to extend an additional discount on the standard fee, bringing the investment to **{{discount_price}}** instead of {{price}}, with no changes to the scope of the feature or promotion.
 
 If this is of interest, I can share the complete details today. If not, I appreciate your time and will ensure no further follow-ups on this.
 
