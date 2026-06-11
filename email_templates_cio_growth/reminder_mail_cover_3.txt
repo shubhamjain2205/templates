@@ -1,24 +1,16 @@
 Dear {{name}},
 
-I wanted to reach out one final time regarding your invitation to be featured in the **CIO Growth’s premier flagship cover story.**
+This will be my final follow-up regarding the opportunity to be featured in our upcoming cover edition, **"{{title}}"**.
 
-As a gesture of appreciation and flexibility, if the recognition fee has been a consideration, we are pleased to offer you a concession by bringing your total investment to **{{discount_price}}** (reduced from {{price}}), while retaining **all original benefits,** including the **complimentary Interview Feature** at no additional cost.
+The edition is scheduled to move into final production shortly, and our team is in the process of closing the remaining editorial placements. Since we previously identified your profile as a strong fit for this issue, I wanted to reach out one last time before the lineup is finalized.
 
-This means you'll receive:
+To accommodate last-minute confirmations, we're able to offer a reduced participation fee of **{{discounted_price}}** (reduced from {{price}}) if we receive confirmation before the production schedule is locked.
 
-**- Cover Story Feature**	
-**- Six-Page Editorial Profile**	
-**- Dedicated Online Feature Page**	
-**- Multi-Channel Promotion**	
-**- Recognition Credentials**	
-**- Extended Brand Exposure**	
-**- Complimentary Interview Feature**	
+After this stage, we may not be able to accommodate cover profile within the current edition.
 
-We believe your leadership story would be a valuable addition to this edition, which is dedicated to recognizing executives and innovators creating a lasting impact within their industries.
+If you'd like to participate, simply reply to this email and I'll share the next steps. Otherwise, no action is required, and we will update our records accordingly.
 
-If you'd like to secure your participation or have any questions, simply reply to this email and I'll be happy to assist.
-
-Thank you again for considering this invitation.
+Thank you for your time and consideration, I look forward to hearing from you soon.
 
 Warm regards,	
 {{bdm_name}} | Partnerships Manager	
