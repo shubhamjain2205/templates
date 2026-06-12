@@ -7,5 +7,4 @@ I understand your inbox is busy, so here's the essence: we're featuring a select
 If you'd like a brief overview of the opportunity, I'm happy to share it. No obligation, just information.
 
 Warm regards,  
-{{bdm_name}} | Partnerships Manager  
-CIO Growth  
+{{bdm_name}} | Partnerships Manager | CIO Growth  
