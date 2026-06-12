@@ -7,5 +7,4 @@ To acknowledge the value of your participation, I'd like to extend an additional
 If this is of interest, I can share the complete details today. If not, I appreciate your time and will ensure no further follow-ups on this.
 
 Warm regards,  
-{{bdm_name}} | Partnerships Manager  
-CIO Growth  
+{{bdm_name}} | Partnerships Manager | CIO Growth  
