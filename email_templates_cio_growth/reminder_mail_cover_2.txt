@@ -6,5 +6,9 @@ As a reminder, the feature includes a six-page editorial profile, cover placemen
 
 If the timing isn't suitable, I completely understand. Simply let me know and I'll update our records accordingly.
 
-Warm regards,  
-{{bdm_name}} | Partnerships Manager | CIO Growth  
+Warm regards,	
+{{bdm_name}} | Partnerships Manager | CIO Growth	
+
+You can visit our website simply by searching "CIO Growth" on google.
+
+If you'd prefer not to receive future emails from us, simply reply with "unsubscribe"
