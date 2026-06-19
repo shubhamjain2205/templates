@@ -6,5 +6,8 @@ I understand your inbox is busy, so here's the essence: we're featuring a select
 
 If you'd like a brief overview of the opportunity, I'm happy to share it. No obligation, just information.
 
-Warm regards,  
-{{bdm_name}} | Partnerships Manager | CIO Growth  
+Warm regards,	
+{{bdm_name}} | Partnerships Manager | CIO Growth	
+
+You can visit our website simply by searching "CIO Growth" on google.
+If you'd prefer not to receive future emails from us, simply reply with "unsubscribe"
