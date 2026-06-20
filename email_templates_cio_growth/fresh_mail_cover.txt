@@ -22,9 +22,10 @@ The cost is **{{price}}**. That covers end-to-end editorial development, product
 If the fit feels right, I'll walk you through our readership, the editorial process, and what a cover feature looks like in practice. No commitment, just clarity and I look forward to hearing from you.
 
 Warm regards,	
-{{bdm_name}} | Partnerships Manager | CIO Growth	
-
+{{bdm_name}} | Partnerships Manager | CIO Growth  
 You can visit our website simply by searching "CIO Growth" on google.
+
+
 
 <p style="font-family: Arial, sans-serif; font-size: 10pt; margin-top: 15px;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
