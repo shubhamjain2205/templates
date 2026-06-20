@@ -26,7 +26,6 @@ Warm regards,
 You can visit our website simply by searching "CIO Growth" on google.
 
 
-
-<p style="font-family: Arial, sans-serif; font-size: 10pt; margin-top: 15px;">
+<p style="font-family: Arial, sans-serif; font-size: 10pt;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
 </p>
