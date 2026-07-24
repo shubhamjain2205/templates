@@ -4,22 +4,68 @@ Most leadership profiles celebrate the polished outcome. I'm more interested in 
 
 **"{{title}}"**
 
-For this edition, I'm looking for leaders who've made hard calls, not just safe ones - and your career suggests you've made more than a few.
+Each edition is carefully curated to feature a select group of leaders who are shaping the future of their industries. Through CIO Growth, we spotlight the people behind the innovation, not just the companies making headlines.
+
+Based on our editorial research, your journey and the impact you've created stood out. For this edition, we're looking for leaders who've made hard calls, not just safe ones, and your profile reflects exactly that.
 
 **What the Cover Story includes:**
 
-**1. Cover Placement:** Your image featured on the cover of the edition.	
-**2. Six-Page Editorial Profile:** A professionally written feature covering your career journey, leadership experience, achievements, and industry insights.	
-**3. Online Feature Page:** A dedicated profile page on CIO Growth with links to your organization.  
-**4. Digital Promotion:** Promotion across our website, newsletters, and social media channels following publication.	
-**5. Recognition Assets:** A digital certificate and recognition badge for professional use.	
-**6. Additional Advertising Placement:** A complimentary full-page colour advertisement in two subsequent editions.	
+**1. Exclusive Cover Feature**	
+Your image will appear exclusively on the cover of the magazine, giving your brand maximum visibility.
 
-Our recent editions have reached over 40,000 senior leaders across our digital channels. This isn't a volume play. It's targeted reach, built for decision-makers like you.
+**2. Professionally Written Six-Page Cover Story**	
+A professionally written six-page feature highlighting your journey, achievements, leadership, company, and vision.
 
-The cost is **{{price}}**. That covers end-to-end editorial development, production, design, publication, and promotion. No hidden fees beyond this.
+**3. Dedicated Online Profile**	
+A permanent profile page on our website featuring your story, company details, website, and social media links.
 
-If the fit feels right, I'll walk you through our readership, the editorial process, and what a cover feature looks like in practice. No commitment, just clarity and I look forward to hearing from you.
+**4. Worldwide Digital Distribution**	
+Your cover story will be published in our digital magazine, making it accessible to readers worldwide.
+
+**5. Social Media Promotion**	
+Your feature will be promoted across our LinkedIn, Facebook, Instagram, X (Twitter), and other social media platforms.
+
+**6. Newsletter Promotion**	
+Your story will also be featured in our email newsletters, reaching our subscriber community.
+
+**7. SEO Backlink to Your Website**	
+Your online profile will include a do-follow backlink to your website, helping improve your online visibility and direct traffic to your business.
+
+**8. Recognition Certificate & Badge**	
+Receive a personalized digital certificate and official recognition badge that you can proudly display on your website, social media, presentations, and email signature.
+
+**9. Shareable Marketing Kit**	
+You'll receive high-quality digital cover artwork and social media creatives, making it easy to announce your feature across your own channels.
+
+**10. Ongoing Editorial Support (12 Months)**	
+For one year after publication, you can submit:
+
+**-** Up to 6 press releases	
+**-** Up to 3 thought leadership articles	
+**-** Your company newsletters	
+  We'll publish them on our website, giving you continued visibility throughout the year.
+
+**11. Complimentary Full-Page Advertisement**	
+Receive a full-page color advertisement in two future magazine editions at no additional cost.
+
+**12. Website Promotion**	
+Your company can receive complimentary promotional space on our website for announcements, campaigns, or special updates (subject to availability).
+
+**13. Lifetime Online Availability**	
+Your feature remains available on our website, allowing you to share it with clients, partners, investors, and your professional network anytime.
+
+**14. Personalized Feature URL**	
+Receive a dedicated, shareable web page for your cover story that you can include in your email signature, LinkedIn profile, website, proposals, and other professional materials.
+
+We've had the privilege of featuring accomplished executives, founders, and industry leaders from around the world, helping them strengthen both their personal and corporate brands.
+
+Our recent editions have reached **over 40,000 business leaders, founders, executives, and decision-makers** across our digital platforms. Every cover story is designed to strengthen personal branding while creating lasting visibility among a highly relevant professional audience.
+
+The investment for this exclusive cover feature is **{{price}}**, which includes editorial interviews, professional writing, design, publication, digital promotion, and all the benefits listed above. There are no additional charges beyond this.
+
+If this opportunity interests you, simply let me know. I'd be happy to answer any questions you may have or walk you through the editorial process and next steps. If everything looks good, we can begin with a short confirmation agreement.
+
+I look forward to the opportunity of featuring your story.
 
 Warm regards,	
 {{bdm_name}} | Partnerships Manager | CIO Growth  
@@ -29,3 +75,8 @@ You can visit our website simply by searching "CIO Growth" on google.
 <p style="font-family: Arial, sans-serif; font-size: 10pt;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
 </p>
+
+
+
+
+
