@@ -25,10 +25,10 @@ Your cover story will be published in our digital magazine, making it accessible
 **5. Social Media Promotion**	
 Your feature will be promoted across our LinkedIn, Facebook, Instagram, X (Twitter), and other social media platforms.
 
-**6. Newsletter Promotion**	
+**6. Newsletter Promotion**<br>
 Your story will also be featured in our email newsletters, reaching our subscriber community.
 
-**7. SEO Backlink to Your Website**	
+**7. SEO Backlink to Your Website**<br>
 Your online profile will include a do-follow backlink to your website, helping improve your online visibility and direct traffic to your business.
 
 **8. Recognition Certificate & Badge**	
@@ -59,7 +59,9 @@ Receive a dedicated, shareable web page for your cover story that you can includ
 
 We've had the privilege of featuring accomplished executives, founders, and industry leaders from around the world, helping them strengthen both their personal and corporate brands. Our recent editions have reached **over 40,000 business leaders, founders, executives, and decision-makers** across our digital platforms. Every cover story is designed to strengthen personal branding while creating lasting visibility among a highly relevant professional audience.
 
-The investment for this exclusive cover feature is **{{price}}**, which includes editorial interviews, professional writing, design, publication, digital promotion, and all the benefits listed above. There are no additional charges beyond this. If this opportunity interests you, simply let me know. I'd be happy to answer any questions you may have or walk you through the editorial process and next steps. If everything looks good, we can begin with a short confirmation agreement.
+The investment for this exclusive cover feature is **{{price}}**, which includes editorial interviews, professional writing, design, publication, digital promotion, and all the benefits listed above. There are no additional charges beyond this. 
+
+If this opportunity interests you, simply let me know. I'd be happy to answer any questions you may have or walk you through the editorial process and next steps. If everything looks good, we can begin with a short confirmation agreement.
 
 I look forward to the opportunity of featuring your story.
 
