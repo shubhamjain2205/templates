@@ -61,10 +61,11 @@ We've had the privilege of featuring accomplished executives, founders, and indu
 
 The investment for this exclusive cover feature is **{{price}}**, which includes editorial interviews, professional writing, design, publication, digital promotion, and all the benefits listed above. There are no additional charges beyond this. 
 
-If this opportunity interests you, simply let me know. I'd be happy to answer any questions you may have or walk you through the editorial process and next steps. If everything looks good, we can begin with a short confirmation agreement.
+If this opportunity resonates with you, I'd be delighted to share complete details about the feature, including the editorial process, publication timeline, examples of previous cover stories, and everything that's included.
+
+Simply let me know if you're interested, and I'll send over all the information for your review with no obligation.
 
 I look forward to the opportunity of featuring your story.
-
 Warm regards,	
 {{bdm_name}} | Partnerships Manager | CIO Growth  
 You can visit our website simply by searching "CIO Growth" on google.
@@ -73,8 +74,4 @@ You can visit our website simply by searching "CIO Growth" on google.
 <p style="font-family: Arial, sans-serif; font-size: 10pt;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
 </p>
-
-
-
-
 
