@@ -6,13 +6,13 @@ I understand your inbox is busy, so here's the essence: we're featuring a select
 
 If you'd like a brief overview of the opportunity, I'm happy to share it. No obligation, just information.
 
-Warm regards,	
-{{bdm_name}} | Partnerships Manager | CIO Growth	
-
-You can visit our website simply by searching "CIO Growth" on google.
-
+Warm regards,<br>
+{{bdm_name}} | Partnerships Manager<br>
+CIO Growth<br>
+You can visit our website simply by searching "CIO Growth" on google.<br>
+<br>
+<br>
+<br>
 <p style="font-family: Arial, sans-serif; font-size: 10pt;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
 </p>
-
-
