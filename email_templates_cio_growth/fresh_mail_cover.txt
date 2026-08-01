@@ -64,11 +64,14 @@ If this opportunity resonates with you, I'd be delighted to share complete detai
 Simply let me know if you're interested, and I'll send over all the information for your review with no obligation.
 
 I look forward to the opportunity of featuring your story.
-Warm regards,	
-{{bdm_name}} | Partnerships Manager | CIO Growth  
-You can visit our website simply by searching "CIO Growth" on google.
 
-
+Warm regards,<br>
+{{bdm_name}} | Partnerships Manager<br>
+CIO Growth<br>
+You can visit our website simply by searching "CIO Growth" on google.<br>
+<br>
+<br>
+<br>
 <p style="font-family: Arial, sans-serif; font-size: 10pt;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
 </p>
