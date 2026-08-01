@@ -8,13 +8,13 @@ If you're interested, I'd be happy to share the complete details, including ever
 
 If this isn't the right time, I completely understand and will ensure there are no further follow-ups.
 
-Warm regards,	
-{{bdm_name}} | Partnerships Manager | CIO Growth	
-
-You can visit our website simply by searching "CIO Growth" on google.
-
+Warm regards,<br>
+{{bdm_name}} | Partnerships Manager<br>
+CIO Growth<br>
+You can visit our website simply by searching "CIO Growth" on google.<br>
+<br>
+<br>
+<br>
 <p style="font-family: Arial, sans-serif; font-size: 10pt;">
 If you'd prefer not to receive future emails from us, reply with "unsubscribe"
 </p>
-
-
