@@ -1,13 +1,12 @@
 Dear {{name}},
 
-Just a quick follow-up regarding your shortlisting for the **2025 Frontier 100s**, a special collaborative feature by **CIO Growth and Frontier Blaze Magazine.**
+Just a quick follow-up regarding your shortlisting for the **2026 Frontier 100s**, a special collaborative feature by **CIO Growth and Frontier Blaze Magazine.**
 
 Our editorial team is finalizing the lineup, and as of now, **only 28 spots remain** out of the 100 available positions. 
 
-**Rank: 1–50 (99 USD) (4 vacancies remaining)**  
-**Rank: 51–70 (79 USD) (5 vacancies remaining)**  
-**Rank: 71–90 (69 USD) (11 vacancies remaining)**  
-**Rank: 91–100 (49 USD) (8 vacancies remaining)**  
+**Rank: 1–40 (99 USD) (4 vacancies remaining)**  
+**Rank: 41–80 (79 USD) (9 vacancies remaining)**  
+**Rank: 81–100 (69 USD) (15 vacancies remaining)**  
 
 Your profile was among those selected for this exclusive global recognition, and we’d be delighted to include your story in this year’s issue.
 
@@ -16,5 +15,6 @@ Please confirm your participation at your earliest convenience so we can reserve
 Warm regards,  
 {{bdm_name}} | Partnerships Manager  
 CIO Growth  
+
 In Collaboration with Frontier Blaze Magazine 
 (www.frontierblaze.com)
